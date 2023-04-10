@@ -1,0 +1,13 @@
+.arrowContainer{
+    width:1500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.arrow2{
+    margin-left: 168px
+}
+
+.arrow3{
+    margin-left: 168px
+}
